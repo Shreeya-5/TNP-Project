@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+
+@charset "ISO-8859-1";
+
+.nav-link {
+	color: #ffffff;
+	display: block;
+	background-color: #12276a;
+	padding: 5px;
+}
+
+.nav-item a:hover{
+	color: #dfefff;
+}
+
+.txt {
+	color: white;
+	
+}
+
+.right {
+	align-content: center;
+}
+
+.container-2 {
+	display: grid;
+	height: 100%;
+	width: 50%;
+	grid-template-columns: 1000px 500px;
+	grid-template-rows: auto auto;
+}
+
+.child-container {
+	display: grid;
+	justify-content: centre;
+	align-content: centre;
+}
+
+.dis {
+	justify-content : centre;
+	align-content: centre;
+}
